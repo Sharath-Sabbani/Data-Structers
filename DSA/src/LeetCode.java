@@ -2,6 +2,7 @@ class LeetCode {
     public static void main(String[] args) {
         numWaterBottles(9,3);
     }
+    
     public static int numWaterBottles(int numBottles, int numExchange) {
         int dummy,dummy1;
         int sum=0;
